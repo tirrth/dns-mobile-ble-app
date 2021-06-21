@@ -1,0 +1,72 @@
+[
+  {
+    "hex": "#fafafa",
+    "value": "White",
+    "rgb": "rgb(250, 250, 250)"
+  },
+  {
+    "hex": "#DBDBDB",
+    "value": "Silver",
+    "rgb": "rgb(219, 219, 219)"
+  },
+  {
+    "hex": "#C3C361",
+    "value": "YellowGreen",
+    "rgb": "rgb(195, 195, 97)"
+  },
+  {
+    "hex": "#C9A834",
+    "value": "YellowOrange",
+    "rgb": "rgb(201, 168, 52)"
+  },
+  {
+    "hex": "#EB9200",
+    "value": "Orange",
+    "rgb": "rgb(235, 146, 0)"
+  },
+  {
+    "hex": "#30A532",
+    "value": "Green",
+    "rgb": "rgb(48, 165, 50)"
+  },
+  {
+    "hex": "#AC4C00",
+    "value": "DarkOrange",
+    "rgb": "rgb(172, 76, 0)"
+  },
+  {
+    "hex": "#807C7B",
+    "value": "Grey",
+    "rgb": "rgb(128, 124, 123)"
+  },
+  {
+    "hex": "#94090C",
+    "value": "Red",
+    "rgb": "rgb(148, 9, 12)"
+  },
+  {
+    "hex": "#161595",
+    "value": "Blue",
+    "rgb": "rgb(22, 21, 149)"
+  },
+  {
+    "hex": "#420A0B",
+    "value": "Brown",
+    "rgb": "rgb(66, 10, 11)"
+  },
+  {
+    "hex": "#172B12",
+    "value": "DarkGreen",
+    "rgb": "rgb(23, 43, 18)"
+  },
+  {
+    "hex": "#0A0B44",
+    "value": "DarkBlue",
+    "rgb": "rgb(10, 11, 68)"
+  },
+  {
+    "hex": "black",
+    "value": "Black",
+    "rgb": "rgb(0, 0, 0)"
+  }
+]
